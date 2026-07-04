@@ -66,6 +66,10 @@ Set up a Slack app with Socket Mode and slash commands
 Built the bot locally using Node.js and Slack Bolt
 Added API integrations one by one
 Deployed to Hack Club Nest as a systemd service so it runs 24/7
+I used "AI" to learn the new stuffs because im a complete beginner to coding and stuff
+i did use ai this my project, because i dont know how coding works
+Im still learning things as i progress further
+
 
 
 
